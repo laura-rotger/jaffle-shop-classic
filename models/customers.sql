@@ -1,3 +1,5 @@
+/*This is a test change to see if I can push stuff to git*/
+
 with customers as (
 
     select * from {{ ref('stg_customers') }}
